@@ -85,10 +85,6 @@ python visualize.py --results-file path/to/results.json
 
 This will generate charts and visualizations showing the results of the plagiarism detection.
 
-## Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
